@@ -1,0 +1,2 @@
+# No external runtime dependencies are required.
+# tkinter ships with the standard Python installation on most desktop setups.
